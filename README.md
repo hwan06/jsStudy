@@ -43,7 +43,26 @@
 >![image](https://github.com/hwan06/jsStudy/assets/114748934/3b0f8966-b1c0-4ebc-a24a-1c538deeae99)   
 >![image](https://github.com/hwan06/jsStudy/assets/114748934/03dc6c00-c527-4e86-a7b5-79453b53cdbb)
 
+## 6. 형변환
+**자동형변환이란**
+> "6" / "2" = 3 과 같이 문자열을 문자열로 나누었음에도 불구하고 정수형값이 반환된다.   
+> 이처럼 자료형을 자동으로 변환해주는것.
 
+**명시적형변환이란**
+>String() Number() Boolean() 순서대로 문자열, 정수형, 참거짓   
+>각각 괄호 안에 들어가는 값을 해당 자료형으로 변환한다.
 
+**주의사항**   
+><img src="https://github.com/hwan06/jsStudy/assets/114748934/ee98fd50-25a5-4547-bf44-a47ce802b19e.png" width="400" height="200"/>     
+><img src="https://github.com/hwan06/jsStudy/assets/114748934/1f5403fe-2eb8-45cf-b2fd-ee8b29fce990.png" width="400" height="200"/>   
+
+## 7. 동등연산자와 일치연산자
+**동등연산자란**
+> 등호(=)를 두개만 사용하는 방식으로 5 == 5 이런식으로 사용한다.   
+> 하지만 5 == "5" 이 또한 true를 반환하기 때문에 문제가 있다.
+
+**일치연산자란**
+> 등호(=)를 세개를 사용하는 방식으로 5 === 5 이런식으로 사용한다.   
+> 일치연산자는 5 === "5" 이를 false로 반환한다. 이처럼 일치연산자는 값의 자료형까지 구분해주는 연산자이다
 
 
