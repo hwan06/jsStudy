@@ -1,4 +1,4 @@
-# js기초 강의 정리
+# js기초 강의 정리 
 #### 강의링크: https://www.youtube.com/watch?v=KF6t61yuPCY
 
 ## 1. let과 const
